@@ -2272,6 +2272,10 @@
     "directions": "alataciria: 2e, 1d, (travel on the elynis), exit--acquired during the adventure"
   },
   {
+    "what": "a robe of turkey feathers",
+    "directions": "11s, 16w, 4n, 1e, 1n, 3w, 1s, 4e, 1s, 1e, kill chief and guard"
+  },
+  {
     "what": "glimmer",
     "directions": "alton's caverns: 17w, 2s, 3w, 5n, kill student, 2n, 1w--1nw, 1s, search trash, 1n, 1se, 1s, search, unlock sw, open sw, 1sw, 1s, search, open w, 1w, 1nw, 1sw, search desk, 1ne, 1se, 1sw, 1s, kill mage, unlock sw, open sw, 1sw, 1w, kill mage, search, open n, 1n, kill alton"
   },
