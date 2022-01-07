@@ -56,7 +56,7 @@ $(document).ready(function(){
   var expression = new RegExp(searchField, "i");
   // $.getJSON('directions.json', function(data) {
    $.each(data, function(key, value){
-    if (value.what.search(expression) != -1)
+    if (value.what.search(expression) != -1 || value.notes.search(expression) != -1)
     {
      $('#result').append('<li class="list-group-item link-class">'+value.what+' | <span class="text-muted">'+value.directions+'</span> | <span class="hidden">'+value.notes+'</span></li>');
     }
