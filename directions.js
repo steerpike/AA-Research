@@ -4,6 +4,10 @@
     "directions": "17w, 3n, enter"
   },
   {
+    "what": "alliance camp",
+    "directions": "11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n"
+  },
+  {
     "what": "alataciria",
     "directions": "2e, 1d, (travel on the elynis), exit"
   },
