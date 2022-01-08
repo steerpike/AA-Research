@@ -4163,5 +4163,455 @@
     "what": "a silver bracelet",
     "directions": "zhamarr: 31n, 9w, 2n, 7w--found on lady cohinore",
     "notes": "protects against the special attacks of zarakan the black sorcerer of zhamarr"
+  },
+  {
+    "what": "an enchanted elvish arrow",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Endillian",
+    "notes": "extra magical damage on hit "
+  },
+  {
+    "what": "a dwarvern axe of wounding",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Edward",
+    "notes": "hits apply an effect to target that makes them take extra damage from all attackers"
+  },
+  {
+    "what": "a dwarvern axe of vulnerability",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Edward",
+    "notes": "hits apply an effect to target that makes them easier to hit for all attackers"
+  },
+  {
+    "what": "a baselard of endless strikes",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Danielle",
+    "notes": "extra attacks"
+  },
+  {
+    "what": "a battleaxe of severing",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Gemma",
+    "notes": "cumulative attacks to the same spot cause extra damage"
+  },
+  {
+    "what": "a sword catcher of the first word",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Nightingale",
+    "notes": "can pin bladed weapons and prevent attacks"
+  },
+  {
+    "what": "a misericorde of the last word",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Nightingale",
+    "notes": "extra damage on low health opponents when used as a rogue secondary"
+  },
+  {
+    "what": "a sabre of duty",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Bernard",
+    "notes": "accuracy bonus when leader of a party"
+  },
+  {
+    "what": "Antana's embrace",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Marcus",
+    "notes": "extra defence when blessed"
+  },
+  {
+    "what": "an archer's gloves of spellcatching",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Endillian",
+    "notes": "stops one spell each reset"
+  },
+  {
+    "what": "a pair of gloves of the gentle touch",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Nightingale",
+    "notes": "+5 dispossession"
+  },
+  {
+    "what": "Antana's journey",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Morygan",
+    "notes": "light source when blessed"
+  },
+  {
+    "what": "a longsword of redemption",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Marcus",
+    "notes": "paladin only, bonuses based on kills and good deeds"
+  },
+  {
+    "what": "dwarvish battle mail",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Edward",
+    "notes": "magic defence against dragons and orcs"
+  },
+  {
+    "what": "a pelerine of the last stand",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Morygan",
+    "notes": "magic defence when wearer at lower health"
+  },
+  {
+    "what": "a spear of penance",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Dee",
+    "notes": "extra damage but causes small damage to wielder"
+  },
+  {
+    "what": "a flail of reckoning",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Pieter",
+    "notes": "more damage for damage taken"
+  },
+  {
+    "what": "a requiem shield",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Danielle",
+    "notes": "heals wearer on kills"
+  },
+  {
+    "what": "a wand of force",
+    "directions": "alliance camp: 11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 3s, 5w, 1n - find and kill Isambard",
+    "notes": "physical damage wand"
+  },
+  {
+    "what": "a lump of amber",
+    "directions": "desert, rough",
+    "notes": ""
+  },
+  {
+    "what": "a lump of clay",
+    "directions": "river, shore",
+    "notes": ""
+  },
+  {
+    "what": "a lump of coal",
+    "directions": "marsh, rough",
+    "notes": ""
+  },
+  {
+    "what": "a lump of limestone",
+    "directions": "river, shore",
+    "notes": ""
+  },
+  {
+    "what": "a lump of meteorite",
+    "directions": "fields, rough",
+    "notes": ""
+  },
+  {
+    "what": "a lump of sand",
+    "directions": "desert, shore",
+    "notes": ""
+  },
+  {
+    "what": "an uncut agate",
+    "directions": "desert, rough",
+    "notes": ""
+  },
+  {
+    "what": "an uncut amethyst",
+    "directions": "rough",
+    "notes": ""
+  },
+  {
+    "what": "an uncut aquamarine",
+    "directions": "river, rough",
+    "notes": ""
+  },
+  {
+    "what": "an uncut bloodstone",
+    "directions": "desert, rough",
+    "notes": ""
+  },
+  {
+    "what": "an uncut coral",
+    "directions": "shore",
+    "notes": ""
+  },
+  {
+    "what": "an uncut diamond",
+    "directions": "river, rough",
+    "notes": ""
+  },
+  {
+    "what": "an uncut emerald",
+    "directions": "rough",
+    "notes": ""
+  },
+  {
+    "what": "an uncut garnet",
+    "directions": "desert, rough",
+    "notes": ""
+  },
+  {
+    "what": "an uncut opal",
+    "directions": "rough",
+    "notes": ""
+  },
+  {
+    "what": "an uncut pearl",
+    "directions": "shore",
+    "notes": ""
+  },
+  {
+    "what": "an uncut ruby",
+    "directions": "rough",
+    "notes": ""
+  },
+  {
+    "what": "an uncut sapphire",
+    "directions": "rough",
+    "notes": ""
+  },
+  {
+    "what": "an uncut turquoise",
+    "directions": "river, rough",
+    "notes": ""
+  },
+  {
+    "what": "a lump of antimony",
+    "directions": "jungle, rough",
+    "notes": ""
+  },
+  {
+    "what": "a lump of cinnabar",
+    "directions": "desert, jungle, rough",
+    "notes": ""
+  },
+  {
+    "what": "a lump of pitchblende",
+    "directions": "desert, rough, tundra",
+    "notes": ""
+  },
+  {
+    "what": "a blackberry root",
+    "directions": "woods",
+    "notes": ""
+  },
+  {
+    "what": "a butterbur root",
+    "directions": "river",
+    "notes": ""
+  },
+  {
+    "what": "a camomile blossom",
+    "directions": "woods",
+    "notes": ""
+  },
+  {
+    "what": "a coltsfoot stem",
+    "directions": "river",
+    "notes": ""
+  },
+  {
+    "what": "a cowslip blossom",
+    "directions": "woods",
+    "notes": ""
+  },
+  {
+    "what": "a cudweed stem",
+    "directions": "rough",
+    "notes": ""
+  },
+  {
+    "what": "a daffodil blossom",
+    "directions": "fields, woods",
+    "notes": ""
+  },
+  {
+    "what": "a dandelion stem",
+    "directions": "fields, rough",
+    "notes": ""
+  },
+  {
+    "what": "a hellebore blossom",
+    "directions": "marsh, woods",
+    "notes": ""
+  },
+  {
+    "what": "a jasmine blossom",
+    "directions": "fields",
+    "notes": ""
+  },
+  {
+    "what": "a milkweed stem",
+    "directions": "fields, rough",
+    "notes": ""
+  },
+  {
+    "what": "a peachtree blossom",
+    "directions": "woods",
+    "notes": ""
+  },
+  {
+    "what": "a pinch of birch bark",
+    "directions": "woods",
+    "notes": ""
+  },
+  {
+    "what": "a pinch of fennel seed",
+    "directions": "fields, rough",
+    "notes": ""
+  },
+  {
+    "what": "a pinch of hemlock bark",
+    "directions": "marsh, woods",
+    "notes": ""
+  },
+  {
+    "what": "a pinch of marigold seed",
+    "directions": "fields, rough",
+    "notes": ""
+  },
+  {
+    "what": "a pinch of quince bark",
+    "directions": "marsh, river",
+    "notes": ""
+  },
+  {
+    "what": "a pinch of sandalwood bark",
+    "directions": "desert",
+    "notes": ""
+  },
+  {
+    "what": "a saffron blossom",
+    "directions": "fields, woods",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of adderstongue",
+    "directions": "fields",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of angelica",
+    "directions": "fields",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of basil",
+    "directions": "fields, rough",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of belladonna",
+    "directions": "marsh, woods",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of calamint",
+    "directions": "rough",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of campion",
+    "directions": "woods",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of catnip",
+    "directions": "fields, rough",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of chickweed",
+    "directions": "marsh, river",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of comfrey",
+    "directions": "marsh, river",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of fern",
+    "directions": "marsh, woods",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of figwort",
+    "directions": "rough",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of goldenrod",
+    "directions": "fields, rough",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of henbane",
+    "directions": "fields",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of hoarhound",
+    "directions": "marsh",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of holly",
+    "directions": "woods",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of laurel",
+    "directions": "marsh, rough, woods",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of marjoram",
+    "directions": "fields, woods",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of mistletoe",
+    "directions": "woods",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of moonwort",
+    "directions": "woods",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of mullein",
+    "directions": "fields, woods",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of sage",
+    "directions": "fields",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of stickwort",
+    "directions": "rough, woods",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of stinking arrach",
+    "directions": "marsh",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of thyme",
+    "directions": "fields",
+    "notes": ""
+  },
+  {
+    "what": "a sprig of valerian",
+    "directions": "woods",
+    "notes": ""
+  },
+  {
+    "what": "an agrimony stem",
+    "directions": "river",
+    "notes": ""
+  },
+  {
+    "what": "an amaranth blossom",
+    "directions": "fields, woods",
+    "notes": ""
+  },
+  {
+    "what": "an anemone blossom",
+    "directions": "woods",
+    "notes": ""
+  },
+  {
+    "what": "an aster blossom",
+    "directions": "fields",
+    "notes": ""
+  },
+  {
+    "what": "an euphorbia stem",
+    "directions": "woods",
+    "notes": ""
   }
 ]
