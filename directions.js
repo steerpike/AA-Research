@@ -333,7 +333,7 @@
     "what": "endora's labyrinth",
     "directions": "11s, 17w, 6s, 2e, 5s, 1e, 1ne",
     "notes": "1. 'utter ora da'jan aro' to get inside the area. 2. You can kill the magical beings instead of answering riddles to get past them.",
-    "map": "Endora-Labyrinth.pdf"
+    "map": "Endoras-Labyrinth.pdf"
   },
   {
     "what": "esjay's cottage",
