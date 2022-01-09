@@ -58,7 +58,7 @@ $(document).ready(function(){
    $.each(data, function(key, value){
     if (value.what.search(expression) != -1 || value.notes.search(expression) != -1)
     {
-     $('#result').append('<li class="list-group-item link-class">'+value.what+' | <span class="text-muted">'+value.directions+'</span> | <span class="hidden">'+value.notes+'</span></li>');
+     $('#result').append('<li class="list-group-item link-class">'+value.what+' | <span class="text-muted">'+value.directions+'</span> | <span class="hidden">'+value.notes+' | '+value.map+'</span></li>');
     }
    });
   // });
@@ -67,7 +67,10 @@ $(document).ready(function(){
  $('#result').on('click', 'li', function() {
   var click_text = $(this).text().split('|');
   $('#search').val($.trim(click_text[0]));
-  $("#result").html('<h3>' + $.trim(click_text[0]) +'</h3><p>' + $.trim(click_text[1]) +'</p><p>'+ $.trim(click_text[2])+'</p>');
+  $("#result").html('<h3>' + $.trim(click_text[0]) +'</h3><p>' + $.trim(click_text[1]) +'</p><p>'+ $.trim(click_text[2])+'</p><div id="map"></div>');
+  //if($.trim(click_text[3]) != "") {
+    $("#map").html('<p><a href="maps/'+ $.trim(click_text[3])+'">Map</a></p>');
+  //}
  });
 });
 </script>
