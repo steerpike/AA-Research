@@ -68,9 +68,9 @@ $(document).ready(function(){
   var click_text = $(this).text().split('|');
   $('#search').val($.trim(click_text[0]));
   $("#result").html('<h3>' + $.trim(click_text[0]) +'</h3><p>' + $.trim(click_text[1]) +'</p><p>'+ $.trim(click_text[2])+'</p><div id="map"></div>');
-  //if($.trim(click_text[3]) != "") {
+  if($.trim(click_text[3]) != "") {
     $("#map").html('<p><a href="maps/'+ $.trim(click_text[3])+'">Map</a></p>');
-  //}
+  }
  });
 });
 </script>
