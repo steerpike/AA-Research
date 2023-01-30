@@ -1068,6 +1068,12 @@
     "map": "Wayfarers-Rest.pdf"
   },
   {
+    "what": "welnor",
+    "directions": "20n, 8w, 1s, 1w, 1s, 2w, 1n, 11w, 2n, enter fort",
+    "notes": "",
+    "map": ""
+  },
+  {
     "what": "windmill",
     "directions": "11w, 4n, kill guard, enter mill",
     "notes": "",
