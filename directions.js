@@ -636,6 +636,12 @@
     "map": "Morin-Farm.pdf"
   },
   {
+    "what": "mount golem",
+    "directions": "31n, 9w, 10n, 32w, 8s, 2e",
+    "notes": "",
+    "map": ""
+  },
+  {
     "what": "mount kresh",
     "directions": "20n, 8w, 1s, 1w, 1s, 2w, 1n, 4w, 7n, 1e, 1n",
     "notes": "Avoiding Combat: you can bypass the guards if you enter cave, kill gargoyles, 1w, search floor, snap wire, 1n, 1e, open n, 1n, examine basket, 1s, 2w, 1n, open w, 1w, 1n, give bread to guard, get peg, 1s, 1e, search, open e, 1e, pull torch, 2n, insert peg into hole, 1d. From here you can search to reveal a door that leads into the rest of the area. 1. Kill the guard to get wooden peg, 1e, search tapestry, insert peg into hole. 2. 'open coffin' in various downstairs locations to summon a spectre. 3. 'get cup' then 'fill cup' at the waterfall. 4. 'take plate' then 'fill plate' at the pit of fire. 5. At the inner sections of the crypt 'pour water on coal' for passage. 6. The stairs after the wall of fire will collapse, 'open coffin' and kill the spectre. 7. 'enter coffin' and 'search dust' then 'open door' and 'break plank' to leave the collapsed area. 8. At the room with the history book 'stand on stool' and then 'search' to find a bottle of brandy.",
