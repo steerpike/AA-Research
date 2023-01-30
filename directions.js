@@ -330,6 +330,12 @@
     "map": "Elven-Preserve.pdf"
   },
   {
+    "what": "Emselen Observatory",
+    "directions": "	12w, 4s, 12w, 1s, 8w, 1s, 1w, 6s, 1w, 1s, 1w",
+    "notes": "Elves staring at stars and home of Nocturna the shortsword.",
+    "map": ""
+  },
+  {
     "what": "endora's labyrinth",
     "directions": "11s, 17w, 6s, 2e, 5s, 1e, 1ne",
     "notes": "1. 'utter ora da'jan aro' to get inside the area. 2. You can kill the magical beings instead of answering riddles to get past them.",
@@ -534,6 +540,12 @@
     "map": "Kartini-Academy.pdf"
   },
   {
+    "what": "Kasko",
+    "directions": "20n, 8w, 1s, 1w, 1s, 2w, 1n, 9w, 2s,  se",
+    "notes": "Home of a very good knife for people with a  high knife skill and who use lots of spellpoints.",
+    "map": ""
+  },
+  {
     "what": "knight retreat",
     "directions": "11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 10s, 5w, 1sw",
     "notes": "",
@@ -574,6 +586,12 @@
     "directions": "17w, 1n, 2w",
     "notes": "",
     "map": "Magic-Caves.pdf"
+  },
+  {
+    "what": "mandrove village",
+    "directions": "2e, 1d, enter door, 2e, 8s, se",
+    "notes": "",
+    "map": ""
   },
   {
     "what": "manspider caves",
@@ -928,6 +946,12 @@
     "directions": "2e, 1d, (travel on the atlantis), exit",
     "notes": "",
     "map": "Southeastern-Isle.pdf"
+  },
+  {
+    "what": "sphinx",
+    "directions": "2e, 1d, enter door, 18e, 1n, 1e, 11n, 8e, 5s, 1w, nw",
+    "notes": "Bring uniques to trade with the Sphinx. She also asks for non-unique items to trade. Lots of worthwhile items to trade from her. There's a lot in this area despite it being less than 10 rooms big. You can mine for unique clay, fish for creature that provides a magical effect and pick flowers than can be woven into magical items too.",
+    "map": ""
   },
   {
     "what": "star caverns (1/3)",
