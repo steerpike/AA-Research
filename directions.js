@@ -1592,7 +1592,7 @@
   {
     "what": "paper mill",
     "directions": "2e, 1d, enter door, 17e, 17n, 2w, 2s",
-    "notes": "Miniquests: there's a huge number of activities to do in the area, you can help in the flax fields, harvesting, retting, threshing and combing the stalks, winnowing, winding, and spinning the yarn, as well as moulding, trimming, and treating paper. Doing these types of things will offer various rewards. The most coveted reward being a padded linen gambeson.",
+    "notes": "Miniquests: there's a huge number of activities to do in the area, you can help in the flax fields, harvesting, retting, threshing and combing the stalks, winnowing, winding, and spinning the yarn, as well as moulding, trimming, and treating paper. Doing these types of things will offer various rewards. The most coveted reward being a padded linen gambeson. Many of the items and rewards from this area are house-installable.",
     "map": "Paper-Mill.pdf"
   },
   {
