@@ -17,7 +17,7 @@
   </script>
   <style>
   #result {
-   position: absolute;
+   /*position: absolute;*/
    width: 100%;
    max-width:870px;
    cursor: pointer;
@@ -40,8 +40,148 @@
    <div align="center">
     <input type="text" name="search" id="search" placeholder="Search for an area or unique" class="form-control" />
    </div>
+   <div>
    <ul class="list-group" id="result"></ul>
    <br />
+   </div>
+   <div>
+    <h3>D-Door locations</h3>
+    <table>
+      <thead>
+        <tr>
+          <td>Door</td>
+          <td>Area</td>
+          <td>Directions</td>
+        </tr>
+      </thead>
+      <tr>
+        <td>1e</td>
+        <td>shapeshifter enclave</td>
+        <td>11s, 17w, 6s, 1e, 1s, 12e, 11s, 3e</td>
+      </tr>
+      <tr>
+        <td>1n</td>
+        <td>ranger camp</td>
+        <td>31n, 9w, 10n, 16e, 1s, enter camp</td>
+      </tr>
+      <tr>
+        <td>1s</td>
+        <td>thranarack pub</td>
+        <td>31n, 9w, 3n, 4w, 3n, 1w</td>
+      </tr>
+      <tr>
+        <td>1se of artificer hall</td>
+        <td>neville (monk garden)</td>
+        <td>13n, 3e, 4n, 1e, 2n</td>
+      </tr>
+      <tr>
+        <td>1sw of artificer hall</td>
+        <td>anguish (coordinates -17,60)</td>
+        <td>31n, 9w, 10n, 8w, 25n</td>
+      </tr>
+      <tr>
+        <td>1w</td>
+        <td>jaochi hall</td>
+        <td>2e, 1d, enter door, 1w, 15n, 3e, 6n, 8e, 25n, 1w, 11n, 1e, 10n, 7e, 5n, 2w, 1n, 3u, 2e</td>
+      </tr>
+      <tr>
+        <td>1w, 1n</td>
+        <td>andeli castle shoppe</td>
+        <td>31n, 9w, (quest area)</td>
+      </tr>
+      <tr>
+        <td>2e</td>
+        <td>gwot's camp (gwot)</td>
+        <td>2e, 1d, enter door, 1w, 15n, 3e, 6n, 8e, 25n, 1w, 1n, 6w, 1nw</td>
+      </tr>
+      <tr>
+        <td>2e, 1d</td>
+        <td>infidian (outside factor's hut)</td>
+        <td>3w, 2n, charter infidian, 2s, 5e, 1d, enter lancer</td>
+      </tr>
+      <tr>
+        <td>2e, 1d, 1n</td>
+        <td>southeastern isle (harbour)</td>
+        <td>2e, 1d, wait for the ship atlantis to arrive, enter atlantis, wait to sail and dock at destination, leave ship
+        </td>
+      </tr>
+      <tr>
+        <td>2e, 1n</td>
+        <td>thom's tavern</td>
+        <td>westmap - directions coming</td>
+      </tr>
+      <tr>
+        <td>2n</td>
+        <td>duender (the waving blade)</td>
+        <td>11s, 17w, 6s, 1e, 1s, 1sw, 1w, 1n</td>
+      </tr>
+      <tr>
+        <td>2s</td>
+        <td>nepeth (intersection)</td>
+        <td>13n, 6w, 3n</td>
+      </tr>
+      <tr>
+        <td>2s, enter alley</td>
+        <td>aalgirzst (rench made)</td>
+        <td>20n, 8w, 1s, 1w, 1s, 2w, 1n, 23w, 1n, 3w, 1n, 1w, 3n, 1e</td>
+      </tr>
+      <tr>
+        <td>2w</td>
+        <td>fallan (falcons crest)</td>
+        <td>2e, 1d, enter door, 1w, 15n, 3e, 6n, 8e, 6n, 4e, 1sw</td>
+      </tr>
+      <tr>
+        <td>3n</td>
+        <td>hobbitat habit</td>
+        <td>33n, 1ne, 2n, 1e, 1ne, 1s</td>
+      </tr>
+      <tr>
+        <td>3s</td>
+        <td>norton (norton knick knacks)</td>
+        <td>31n, 9w, 10n, 17e, 6n, 2e, 4ne, 1n, 1w</td>
+      </tr>
+      <tr>
+        <td>3s, 1w, 1n</td>
+        <td>anguish (outside snowfolk guild)</td>
+        <td>31n, 9w, 10n, 8w, 24n, 10e, 5s, 6e, 2s, 4e, 3n</td>
+      </tr>
+      <tr>
+        <td>3w</td>
+        <td>iceforge clan (uena)</td>
+        <td>31n, 9w, 10n, 8w, 20n, 6e, 5s, 6e, 1ne, 2e, 1se, 4e, 1s, 1w, 2n, 1u, 1n, open n, 1n</td>
+      </tr>
+      <tr>
+        <td>3w, 1s, 1w, 1u</td>
+        <td>manspider caves (drowgar tome)</td>
+        <td>11s, 17w, 6s, 1e, 1s, 8e, 14s, 1w, 1se, (see notes below)</td>
+      </tr>
+      <tr>
+        <td>4w</td>
+        <td>arcadia (rustic fares)</td>
+        <td>24n, 9w, 1nw</td>
+      </tr>
+      <tr>
+        <td>5w</td>
+        <td>gemynd (peaceful rest)</td>
+        <td>2e, 1d, enter door, 1w, 15n, 3e, 3n, 1w, 1sw, 1nw, 1w, 1sw, 1w, 2n, 1e</td>
+      </tr>
+      <tr>
+        <td>6w</td>
+        <td>smoking roc</td>
+        <td>2e, 1d, enter door, 17e, 17n, 6w, 1s, 2w, 1s, enter</td>
+      </tr>
+      <tr>
+        <td>6w, 2n</td>
+        <td>artificer hall</td>
+        <td>11s, 17w, 6s, 1e, 1s, 12e, 11s, 1e, 11s, 4w, 1s, 1w, 2s, 2w, 1s, 1w, 2nw, 1sw, 1se</td>
+      </tr>
+      <tr>
+        <td>x-roads</td>
+        <td>nepeth (misha)</td>
+        <td>13n, 6w, 10n, open n, 1n, open e, 2e, 2n</td>
+      </tr>
+    </table>
+   </div>
   </div>
  </body>
 </html>
